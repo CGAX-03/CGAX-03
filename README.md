@@ -21,7 +21,7 @@ I'm Chris a young Developer building my path around this digital world trying to
 
 #
 
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CGAX-03&theme=transparent&show_icons=true)
 
 
 
