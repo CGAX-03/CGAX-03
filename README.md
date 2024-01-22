@@ -22,8 +22,8 @@ I'm Chris a young Developer building my path around this digital world trying to
 #
 
 <div style="display: inline_block">
-<img height=200 src="https://github-readme-stats.vercel.app/api?username=CGAX-03&theme=transparent&show_icons=true"/>
-<img height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=CGAX-03&layout=compact&langs_count=8&card_width=320&theme=transparent" />
+<img height=190 src="https://github-readme-stats.vercel.app/api?username=CGAX-03&theme=transparent&show_icons=true"/>
+<img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=CGAX-03&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
 
 
