@@ -19,6 +19,10 @@ I'm Chris a young Developer building my path around this digital world trying to
 <img align="center" alt="Programming Language" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />  
 </div>
 
+#
+
+
+
 
 
 
