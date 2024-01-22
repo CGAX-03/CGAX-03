@@ -6,5 +6,5 @@ I'm Chris a young Developer building my path around this digital world trying to
 
 <hr>
 
-<h2>Languages and Tools</h2>
+<h3>Languages and Tools</h3>
 <img align="left" alt="Programming Language" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
