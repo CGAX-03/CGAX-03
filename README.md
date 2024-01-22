@@ -25,19 +25,3 @@ I'm Chris a young Developer building my path around this digital world trying to
 <img height=190 src="https://github-readme-stats.vercel.app/api?username=CGAX-03&theme=transparent&show_icons=true"/>
 <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs?username=CGAX-03&layout=compact&langs_count=8&card_width=320&theme=transparent" />
 </div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
-
-
-
-
-
-
-
-
-
