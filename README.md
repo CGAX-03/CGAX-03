@@ -17,6 +17,9 @@ I'm Chris a young Developer building my path around this digital world trying to
 <img align="left" alt="Programming Language" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
 <img align="left" alt="Programming Language" width="50px" style="padding-right:20px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
+#
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
