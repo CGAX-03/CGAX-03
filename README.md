@@ -19,7 +19,9 @@ I'm Chris a young Developer building my path around this digital world trying to
 
 #
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGAX-03&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<div>
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CGAX-03&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+</div>
 
 
 
